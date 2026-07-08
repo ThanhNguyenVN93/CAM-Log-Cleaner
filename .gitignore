@@ -1,0 +1,22 @@
+# Build outputs
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet (restored from packages.config on build, no need to commit)
+packages/
+*.nupkg
+
+# ReSharper / Rider
+_ReSharper*/
+*.DotSettings.user
+
+# Windows
+Thumbs.db
+desktop.ini
